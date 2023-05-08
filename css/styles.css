@@ -9,7 +9,11 @@
 }
 
 .row:nth-child(odd) {
-    background: #e0e0e0;
+    background: pink;
+}
+
+.row:nth-child(even) {
+    background: lightblue;
 }
 
 h3 {
